@@ -1,6 +1,16 @@
-# Bomber-Ddos
-How to use?:
-Commands:
+### Bomber-Ddos
+
+  #### Coded By Neverkoo
+	
+	My Social Media Adressses;
+	
+[My Youtube Channel](https://www.youtube.com/channel/UCWPjp3WJ2xpVFuXmqKYdDuA/)
+
+
+
+### How to use?:
+
+#### Commands:
 
 pkg update
 
@@ -26,7 +36,10 @@ Language: Python
 
 imports: random, socket, os
 
-Mistakes:
+### Mistakes:
 If the ip address is not written, you will get a "not defined" error.
 
 If you type letters, you will get a "not defined" error.
+
+![An image of the error](https://github.com/Neverkoo/Bomber-Ddos/blob/main/Screenshot_2022-08-03_11_44_17.png)
+
