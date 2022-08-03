@@ -26,8 +26,11 @@ apt install python2
 
 
 1-  git clone https://github.com/Neverkoo/Bomber-Ddos 
+
 2-  cd Bomber-Ddos
+
 3-  python bomberddos.py
+
 Coded by Neverkoo
 
 Made with while loop
